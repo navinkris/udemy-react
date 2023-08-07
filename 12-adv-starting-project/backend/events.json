@@ -1,11 +1,1 @@
-{
-  "events": [
-    {
-      "id": "e1",
-      "title": "A dummy event",
-      "date": "2023-02-22",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "description": "Join this amazing event and connect with fellow developers."
-    }
-  ]
-}
+{"events":[{"title":"Pokemon go","image":"https://lh3.googleusercontent.com/pecu3MBqcca-gn3V2LRp1MDEVfi9DxLmnxnDoLBubXQY3ngQAER5ieg3jO7YPWsJPJnxXYiNJ64OvvPRX9e4cf_9DUevhXShuurCOrrXu5UU=e365-w800","date":"2023-08-05","description":"Pokemon go celebration","id":"56040a53-58fd-430c-8cd8-6226906588aa"},{"title":"Brahmotsava","image":"https://www.bhaktibharat.com/photo/mandir/iskcon-temple-vrindavan/dp.jpg","date":"2023-08-19","description":"Brahmotsava event","id":"439a82ad-473e-4a6e-9cb2-3d9a2c3ad59e"},{"title":"Iskcon evnet","image":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.toiimg.com%2Fthumb%2Fmsid-62479040%2Cwidth-1280%2Cresizemode-4%2F62479040.jpg&tbnid=GL87fsg7itxgJM&vet=12ahUKEwjvtry-u8qAAxXUmmMGHd-xBB0QMygBegUIARDzAQ..i&imgrefurl=https%3A%2F%2Ftimesofindia.indiatimes.com%2Fcity%2Fmumbai%2Fiskcon-juhu-celebrates-40th-anniversary-sunday%2Farticleshow%2F62478999.cms&docid=ed2PIQPE0mQmXM&w=1280&h=960&q=iskcon&ved=2ahUKEwjvtry-u8qAAxXUmmMGHd-xBB0QMygBegUIARDzAQ","date":"2023-08-04","description":"Another event","id":"fbc9408b-727f-4d8b-8a4a-bbdfebbb1e41"},{"id":"e1","title":"A dummy event","date":"2023-02-22","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","description":"Join this amazing event and connect with fellow developers."}]}

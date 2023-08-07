@@ -1,14 +1,21 @@
 import React from "react";
 import MainNavigation from '../components/MainNavigation';
-import { Outlet } from "react-router-dom";
+import { Outlet , 
+  //useNavigation
+ } from "react-router-dom";
 
 function RootLayout() {
-  return <React.Fragment>
-    <MainNavigation />
-    <main>
-      <Outlet />
-    </main>
-  </React.Fragment>
+  // const navigation = useNavigation();
+
+  return (
+    <React.Fragment>
+      <MainNavigation />
+      <main>
+        {/* {navigation.state === 'loading' && <p>Loading...</p>} */}
+        <Outlet />
+      </main>
+    </React.Fragment>
+  );
 }
 
 export default RootLayout;
