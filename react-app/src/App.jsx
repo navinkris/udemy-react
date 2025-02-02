@@ -1,5 +1,5 @@
-import { useEffect, useState } from 'react'
-import './App.css'
+import { useEffect, useState } from 'react';
+import { MainApp } from './assets/styled';
 
 function App() {
   const storageKeyName = "count";
@@ -12,7 +12,7 @@ function App() {
   }, [count]);
 
   return (
-    <>
+    <MainApp>
       <div className='App'>
         Hello World  
         <button onClick={() => addCount((count))}>
@@ -20,7 +20,7 @@ function App() {
         </button>
       </div>
         
-    </>
+    </MainApp>
   )
 }
 
